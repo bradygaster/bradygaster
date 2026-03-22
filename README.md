@@ -1,4 +1,4 @@
-# Hello World!
+# Howdy!
 
 I build developer tools and platforms at Microsoft. Currently I'm a PM Architect in CoreAI, working on Apps, Agents, MIDI, and [Squad](https://github.com/bradygaster/squad). I started out plugging MIDI cables into everything I could find, learned to code so I could make those things talk to each other, and never really stopped connecting things — APIs, services, teams, ideas.
 
